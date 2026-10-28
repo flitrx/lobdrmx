@@ -1,0 +1,10 @@
+{
+  "description": "Monitor engine and Allison transmission data, read diagnostic codes, and track vehicle performance with an OBD2 app tailored for 2008-generation 6.6L Duramax diesel trucks.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
